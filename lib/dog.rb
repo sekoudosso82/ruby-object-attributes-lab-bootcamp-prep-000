@@ -23,6 +23,6 @@ class Dog
   
 end 
 
-dog1 = Dog.new ("douk","haha")
-puts "#{dog1.name}"
-puts "#{dog1.breed}"
+# dog1 = Dog.new ("douk","haha")
+# puts "#{dog1.name}"
+# puts "#{dog1.breed}"
